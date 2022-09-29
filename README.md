@@ -25,7 +25,7 @@ Code Signal Python answers with explanation. This file contains the following pa
 - New Style Forematting
 - Get Commit 
 
-##Lurking in List
+## Lurking in List
 - List Multiplication
 - List Concatenation
 - Two Teams
